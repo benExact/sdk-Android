@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/cameraFragmentFrameLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    >
+    
+    <SurfaceView
+        android:id="@+id/cameraSurfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"/>
+
+    <FrameLayout
+        android:id="@+id/flipAnimationView"
+        android:layout_width="300dp"
+        android:layout_height="214dp">
+    </FrameLayout>
+
+    <View
+        android:id="@+id/torchView"
+        android:layout_width="25dp"
+        android:layout_height="29dp"
+        android:background="@drawable/flashlight_off"
+        android:layout_gravity="end"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="15dp"
+        />
+
+
+</FrameLayout>

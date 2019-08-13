@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:2:5-46
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:11:5-24:19
+	android:supportsRtl
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:12:9-35
+	android:networkSecurityConfig
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:14:9-69
+activity#com.example.identitydocumentsdk.camera.IDScanActivity
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:16:9-20:20
+	android:screenOrientation
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:17:13-50
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml:22:13-70
+uses-sdk
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		ADDED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\MMI Projects\INNSybrin.Android.SDK.IDScan\identitydocumentsdk\src\main\AndroidManifest.xml
